@@ -1,0 +1,21 @@
+body {
+    background-color: dimgray;
+
+}
+#search {
+    background-color: blueviolet;
+    color: cornsilk;
+
+}
+.image{
+    width: 30;
+    
+}
+.background {
+    background-color: blueviolet;
+    color: cornsilk;
+}
+#padding {
+    padding-bottom: 0%;
+    margin-bottom: 10%;
+}
